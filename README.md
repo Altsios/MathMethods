@@ -17,6 +17,18 @@
 ![Screenshot](Imgs/img8.png)
 ![Screenshot](Imgs/img9.png)
 ### 6. Генерация случайных чисел
+![Screenshot](Imgs/img10.png)
+![Screenshot](Imgs/img11.png)
+![Screenshot](Imgs/img12.png)
+![Screenshot](Imgs/img13.png)
 ### 7. Сдвиг значений функции
-### 8. Создание скачков значений (шум)
+![Screenshot](Imgs/img14.png)
+![Screenshot](Imgs/img15.png)
+### 8. Создание выбросов значений (шум)
+![Screenshot](Imgs/img16.png)
+![Screenshot](Imgs/img17.png)
 ### 9. Общий анализ последовательности
+![Screenshot](Imgs/img18.png)
+![Screenshot](Imgs/img19.png)
+![Screenshot](Imgs/img20.png)
+![Screenshot](Imgs/img21.png)
